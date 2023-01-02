@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ankush Kunwar
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate on MERN projects
+- 📫 How to reach me: ank.knr@gmail.com
